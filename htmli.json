@@ -1,8 +1,8 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "HTMLi Proof Of Concept",
-    "description": "<form>\r\n    <h2><a href=\"https:\/\/www.synack.com\" style=\"color:#181818;\">Site under development. Click Here to login in a sustainable page<\/a><\/h2>\r\n    <h3> Welcome, please enter your email\r\n    <input type=\"text\" name=\"username\" id=\"username\" \/>\r\n    <h3> Please, enter your password<\/h3>\r\n    <input type=\"password\" name=\"password\" id=\"password\" \/>\r\n  <\/form>",
+    "title": "Bishop Fox is controlling this page!",
+    "description": "<form>\r\n    <h2><a href=\"https:\/\/www.bf.com\" style=\"color:#181818;\">Site under control of Bishop Fox<\/a><\/h2>\r\n<h3> Welcome, this is an HTML injection\r\n    <input type=\"text\" name=\"username\" id=\"username\" \/>\r\n    <h3> Please, enter your password<\/h3>\r\n    <input type=\"password\" name=\"password\" id=\"password\" \/>\r\n  <\/form>",
     "version": "2017-06-04T22:56:06+00:00",
     "contact": {
       "name": "crypto",
